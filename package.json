@@ -1,0 +1,22 @@
+{
+  "name": "mva-account-manager-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MvA-Projects/MvA-Account-Manager-BACKEND.git"
+  },
+  "author": "Max van Asten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MvA-Projects/MvA-Account-Manager-BACKEND/issues"
+  },
+  "homepage": "https://github.com/MvA-Projects/MvA-Account-Manager-BACKEND#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
